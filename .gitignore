@@ -1,0 +1,7 @@
+__pycache__
+virenv
+
+.env
+.env.*
+!.env.example
+*.db
